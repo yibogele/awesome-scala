@@ -67,8 +67,10 @@ Projects with over 500 stargazers are in bold.
 * [Casbah](http://mongodb.github.io/casbah/) ([repo](https://github.com/mongodb/casbah)) - Officially supported Scala driver for MongoDB
 * [Clickhouse-scala-client](https://github.com/crobox/clickhouse-scala-client) - Reactive client for Clickhouse
 * [CouchDB-Scala ★ 59 ⧗ 21](https://github.com/beloglazov/couchdb-scala) - Purely functional Scala client for CouchDB
+* [Couchbase](https://github.com/couchbase/couchbase-jvm-clients) - Official Couchbase client for Scala.
 * **[doobie ★ 812 ⧗ 0](https://github.com/tpolecat/doobie)** - Pure functional JDBC layer for Scala.
 * **[Elastic4s ★ 1049 ⧗ 0](https://github.com/sksamuel/elastic4s)** - A scala DSL / reactive client for Elasticsearch
+* [etcd4s](https://github.com/mingchuno/etcd4s) - Scala etcd client implementing V3 APIs
 * [Finagle ★ 42 ⧗ 71](https://github.com/finagle/finagle-postgres) - PostgreSQL protocol support for Finagle
 * [laserdisc ★ 37](https://github.com/laserdisc-io/laserdisc) - A Future-free, fs2 native pure FP Redis client
 * [longevity ★ 78 ⧗ 21](https://github.com/longevityframework/longevity) - A Persistence Framework for Scala and NoSQL with a Domain Driven Design Orientation
@@ -103,6 +105,7 @@ Projects with over 500 stargazers are in bold.
 * [Sangria](https://sangria-graphql.org/) - Scala GraphQL Implementation
 * [Scruid ★ 48](https://github.com/ing-bank/scruid) - Scruid (Scala+Druid) is an open source library that allows you to compose Druid queries easily in Scala.
 * [Tepkin ★ 86 ⧗ 251](https://github.com/fehmicansaglam/tepkin) - Reactive MongoDB Driver for Scala built on top of Akka IO and Akka Streams.
+* [akka-persistence-gcp-datastore](https://github.com/innFactory/akka-persistence-gcp-datastore) - akka-persistence-gcp-datastore is a journal and snapshot store plugin for akka-persistence using Google Cloud Datastore.
 
 ## Messaging
 
@@ -153,6 +156,8 @@ Projects with over 500 stargazers are in bold.
 * [form-binder ★ 17 ⧗ 29](https://github.com/tminglei/form-binder) - A micro data binding and validating framework, very easy to use and hack
 * [Monkeytail ★ 55](https://github.com/sksamuel/monkeytail) - A set of validation macros and helpers for cats.Validated
 * [Octopus ★ 15](https://github.com/krzemin/octopus) - Scala library for boilerplate-free validation
+* [Dupin ★ 7](https://github.com/yakivy/dupin) - Minimal, idiomatic, customizable validation for Scala.
+* [Veto](https://github.com/splink/veto) - A scala validation library without dependencies.
 
 ## i18n
 
@@ -291,6 +296,7 @@ Projects with over 500 stargazers are in bold.
 * **[Spire ★ 1152 ⧗ 3](https://github.com/non/spire)** - Powerful new number types and numeric abstractions for Scala.
 * [Squants ★ 388 ⧗ 1](https://github.com/garyKeorkunian/squants) - The Scala API for Quantities, Units of Measure and Dimensional Analysis.
 * [SwiftLearner ★ 20 ⧗ 5](https://github.com/valdanylchuk/swiftlearner) - Simply written algorithms to help study Machine Learning or write your own implementations.
+* [Synapses](https://mrdimosthenis.github.io/Synapses) - Lightweight Neural Network library, for js, jvm and .net.
 * [Tensorflow_scala](https://github.com/eaplatanios/tensorflow_scala) - TensorFlow API for the Scala Programming Language
 * [Tyche ★ 89 ⧗ 17](https://github.com/neysofu/tyche) - Probability distributions, stochastic & Markov processes, lattice walks, simple random sampling. A simple yet robust Scala library.
 * [Zeppelin](http://zeppelin-project.org/) - Scala and Spark Notebook (like IPython Notebook)
@@ -430,6 +436,7 @@ Projects with over 500 stargazers are in bold.
 * [aws4s](https://github.com/aws4s/aws4s) - Non-blocking AWS SDK for Scala exposing strongly-typed APIs built on top of http4s, fs2 and cats.
 * [BootZooka ★ 331 ⧗ 5](https://github.com/softwaremill/bootzooka) - Simple project to quickly start developing a web application using AngularJS and Akka HTTP, without the need to write login, user registration etc.
 * **[Eclair ★ 804](https://github.com/ACINQ/eclair)** - ACINQ's Lightning Network implementation written in Scala.  Lightning Network is a second layer protocol built on top of bitcoin to address scalability, privacy, confirmation time and many other issues.
+* [Easy Config ★ 14 ⧗ 19](https://github.com/kovszilard/easy-config) - Easy Config makes Scala application configuration extremely easy. It reads configuration from the environment or command line arguments.
 * [Fansi ★ 96 ⧗ 15](https://github.com/lihaoyi/fansi) - Scala/Scala.js library for manipulating Fancy Ansi colored strings
 * [GoogleApiScala ★ 5 ⧗ 3](https://github.com/EckerdCollege/google-api-scala) - A simple scala library offering control of Google Drive, Calendar, and the Admin SDK.
 * [Google4s ★ 7 ⧗ 3](https://github.com/toknapp/google4s/) - Lean, functional library for Google Cloud Services in Scala (KMS, Cloud Storage, PubSub)
@@ -514,7 +521,7 @@ Projects with over 500 stargazers are in bold.
 *Sbt plugins to make your life easier.*
 
 * [better-monadic-for ★ 371 ⧗ 8](https://github.com/oleg-py/better-monadic-for) - A Scala compiler plugin to give patterns and for-comprehensions the love they deserve
-* **[coursier ★ 847 ⧗ 0](https://github.com/alexarchambault/coursier)** - A Scala library to fetch dependencies from Maven / Ivy repositories
+* **[coursier ★ 847 ⧗ 0](https://github.com/alexarchambault/coursier)** - A Scala library to fetch dependencies from Maven / Ivy repositories ( Coursier is built-in to SBT since 1.3.0 )
 * [mdoc ★ 94 ⧗ 0](https://github.com/scalameta/mdoc) - Typechecked markdown documentation for Scala [https://scalameta.org/mdoc/](https://scalameta.org/mdoc/)
 * [sbt-api-mappings ★ 38 ⧗ 67](https://github.com/ThoughtWorksInc/sbt-api-mappings) - A Sbt plugin that resolves external API links to common Scala libraries.
 * **[sbt-assembly ★ 1522](https://github.com/sbt/sbt-assembly)** - Deploy fat JARs. Restart processes.
@@ -659,7 +666,9 @@ Projects with over 500 stargazers are in bold.
 
 ## Tools
 
+* **[bloop ★ 583 ⧗ 0](https://github.com/scalacenter/bloop)** - A fast build server for Scala with a rich ecosystem of build tool and IDE integrations.
 * [Codacy](https://www.codacy.com/) - Automated Code Reviews for Scala
+* **[coursier ★ 847 ⧗ 0](https://github.com/alexarchambault/coursier)** - Pure Scala Artifact Fetching. A Scala cli and library to fetch dependencies from Maven / Ivy repositories.
 * [dregrex](https://github.com/marianobarrios/dregex) - Regular expression engine using deterministic finite automata. It supports some Perl-style features and yet retains linear matching time.
 * [Fastring ★ 97 ⧗ 2](https://github.com/Atry/fastring) - Extremely fast string formatting
 * [fast-string-interpolator ★ 24 ⧗ 0](https://github.com/Sizmek/fast-string-interpolator) - Scala macro that generates ultra-fast string interpolators
